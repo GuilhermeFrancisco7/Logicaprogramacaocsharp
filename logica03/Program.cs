@@ -45,7 +45,7 @@ namespace logica03
             Console.WriteLine($"!x: {not}");       // Não lógico
             Console.ReadLine();
 
-
+            
         }
     }
 }
